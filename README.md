@@ -49,7 +49,8 @@ Should you need to reach out: <br/>
    
 <br/>
    
-<h2> Full Stack </h2>
+<h2> Full Stack Developer</h2>
+I have been at this for 20 years, with a proven track record. All round capable of working in, and with large teams. Self starter, active motivator, and a strong focus on delivering best in class, at pace.
 
 ### Platforms
 Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well.<br/> 

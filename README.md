@@ -1,7 +1,6 @@
 ### Public Profile
 <hr/>
-Welcome to the landing page for my Personal Git Profile, it is complimentary to my corporate one. <br/>
-This is small curated space where all my personal projects (public and private), along with some contact information is grouped and made accessible. <br/>
+Welcome to the landing page for my Personal Git Profile, it is complimentary to my corporate one. This is small curated space where all my personal projects (public and private), along with relevant contact information are made accessible. <br/>
 <hr/>
 
 #### Platforms

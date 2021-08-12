@@ -1,7 +1,7 @@
 <img align='right' src="https://openjsf.org/wp-content/uploads/sites/84/2019/03/openjsf-color-textw.svg" width="230">
 
 <h2> Hi, I'm Daniel! </h2>
-Welcome to the landing page for my Personal Git Profile, it is complimentary to my corporate one. This is small curated space where all my personal projects (public and private), along with relevant contact information are made accessible. <br/>
+Welcome to the landing page for my Personal Git Profile, it is complimentary to my corporate one. This is a small curated space where all my personal projects (public and private), along with relevant contact information are made accessible. <br/>
 
 ### Profile
 

@@ -18,7 +18,7 @@ const daniel = {
     data: ["redux", "vuex", "repository"],
     ux: ["design system patterns"]
   ],
-  associations: { "ACS.org.au", "Xbox Ambasador", "Windows Insider" },
+  associations: { "ACS.org.au", "Xbox Ambassador", "Windows Insider" },
   communities: { "OpenJS Foundation", "MS Store Developer", "Gave Dev" },
   organisations: { "LegoLeague", "JS Landia", "UX Collective" }
 }

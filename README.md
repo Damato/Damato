@@ -54,6 +54,7 @@ These are some of the ones I am more than comfortable with: <br/>
   <img align="left" alt="firebase" src="https://img.shields.io/badge/Google%20firebase-232F3E.svg?style=for-the-badge&logo=firebase&logoColor=FFA611" />
   <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-232F3E.svg?style=for-the-badge&logo=microsoft-azure&logoColor=4296f5" />
   <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FFA611" />
+  <img align="left" alt="cloudflare" src="https://img.shields.io/badge/Cloudflare-232F3E.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020" />
 </p>
 <br/>
 
@@ -62,8 +63,9 @@ If the only tool in your toolbox is a hammer, every problem looks like a nail. <
 Some frameworks are certainly better for certain requirements, I am quite comfortable with and fond of: <br/>
 <p>
  <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
- <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="left" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+ <img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-232F3E?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
  <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />	
  <img align="left" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />	
 </p>

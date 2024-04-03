@@ -10,7 +10,7 @@ const daniel = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "C++", "PHP"],
   frameworks: ["svelte", "vue.js", "angular", "angularjs", "express.js"],
-  tools: ["node.js", "sveltekit", "iis", "ngnix", "apache"],
+  tools: ["vite", "node.js", "sveltekit", "ngnix", "apache"],
   platforms: ["azure", "aws", "firebase", "cloudflare"],
   architecture: ["microservices", "monolithic", "SOA"],
   associations: [ "ACS.org.au", "Xbox Ambassador", "Windows Insider" ],

@@ -7,15 +7,15 @@ Welcome to the landing page for my Personal Git Profile, it is complimentary to 
 
 ```javascript
 const daniel = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "C++", "PHP"],
-  frameworks: ["vue.js", "svelte", "angular", "angularjs", "express.js"],
+  frameworks: ["svelte", "vue.js", "angular", "angularjs", "express.js"],
   tools: ["node.js", "sveltekit", "iis", "ngnix", "apache"],
   platforms: ["azure", "aws", "firebase", "cloudflare"],
   architecture: ["microservices", "monolithic", "SOA"],
-  associations: { "ACS.org.au", "Xbox Ambassador", "Windows Insider" },
-  communities: { "OpenJS Foundation", "MS Store Developer", "Gave Dev" },
-  organisations: { "LegoLeague", "JS Landia", "UX Collective" }
+  associations: [ "ACS.org.au", "Xbox Ambassador", "Windows Insider" ],
+  communities: [ "OpenJS Foundation", "MS Store Developer", "Gave Dev" ],
+  organisations: [ "LegoLeague", "JS Landia", "UX Collective" ]
 }
 ```
 

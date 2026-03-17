@@ -1,21 +1,25 @@
-<img align='right' src="https://openjsf.org/logo.svg" width="230">
-
+<img align='right' src="https://openjsf.org/logo.svg" width="140">
 <h2> Hi, I'm Daniel! </h2>
-Welcome to the landing page for my Personal Git Profile, it is complimentary to my corporate one. This is a small curated space where all my personal projects (public and private), along with relevant contact information are made accessible. <br/>
+Welcome to the landing page for my Personal Git Profile, which complements my Sage one. This is a private space where all my Private Projects and relevant contact information are made accessible. <br/>
 
 ### Profile
-
 ```javascript
 const daniel = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "C#", "C++", "PHP"],
+  code: ["Typescript", "Javascript", "HTML", "CSS", "C#", "C", "PHP"],
   frameworks: ["svelte", "vue.js", "angular", "angularjs", "express.js"],
-  tools: ["vite", "node.js", "sveltekit", "ngnix", "apache"],
-  platforms: ["azure", "aws", "firebase", "cloudflare"],
-  architecture: ["microservices", "monolithic", "SOA"],
-  associations: [ "ACS.org.au", "Xbox Ambassador", "Windows Insider" ],
-  communities: [ "OpenJS Foundation", "MS Store Developer", "Gave Dev" ],
-  organisations: [ "LegoLeague", "JS Landia", "UX Collective" ]
+  tools: ["vite", "node.js", "iis", "ngnix", "apache"],
+  architecture: [
+    web: ["microservices", "layered", "mvc"],
+    platforms: ["azure", "aws", "firebase", "cloudflare"],
+    software: ["microservices", "monolithic", "SOA"],
+    data: ["MSSQL", "MySQL", "Postgress", "MongoDB", "Firebase"],
+    eventing: ["event-bus"]
+  ],
+  ux-design: ["creational", "behavioural", "structural"],
+  affiliations: [ "LegoLeague", "JS Landia", "MS Store Developer" ],
+  associations: [ "ACS.org.au", "Xbox Ambasador", "Windows Insider" ],
+  communities: [ "OpenJS Foundation", "UX Collective", "Game Dev Community" ]
 }
 ```
 
@@ -43,43 +47,43 @@ Should you need to reach out: <br/>
 <br/>
    
 <br/>
-   
-<h2> Full Stack Developer</h2>
-I have been at this for 20 years, with a proven track record. All round capable of working in, and with large teams. Self starter, active motivator, and a strong focus on delivering best in class, at pace.
+
+<h2> Full Stack Developer > Team Lead > Product Development Manager </h2>
+I have been at this for 20 years, with a proven track record. All round capable of working in and with large teams. Self-starter, active motivator, and a strong focus on delivering best in class, at pace.
 
 ### Platforms
-Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well.
+Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well. 
 These are some of the ones I am more than comfortable with: <br/>
 <p>
   <img align="left" alt="firebase" src="https://img.shields.io/badge/Google%20firebase-232F3E.svg?style=for-the-badge&logo=firebase&logoColor=FFA611" />
-  <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-232F3E.svg?style=for-the-badge&logo=microsoft-azure&logoColor=4296f5" />
-  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FFA611" />
-  <img align="left" alt="cloudflare" src="https://img.shields.io/badge/Cloudflare-232F3E.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020" />
+  <img align="left" alt="CloudFlare" src="https://img.shields.io/badge/CloudFlare-232F3E.svg?style=for-the-badge&logo=cloudflare&logoColor=FFA611" />
+  <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-00599C.svg?style=for-the-badge&logo=microsoft&logoColor=4296f5" />
+  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-E34F26.svg?style=for-the-badge&logo=amazon&logoColor=FFA611" />
 </p>
 <br/>
 
 ### Frameworks
-If the only tool in your toolbox is a hammer, every problem looks like a nail. <br/>
-Some frameworks are certainly better for certain requirements, I am quite comfortable with and fond of: <br/>
+If the only tool in your toolbox is a hammer, every problem looks like a nail. 
+Some frameworks are certainly better for certain requirements, and I am quite comfortable with and fond of: <br/>
 <p>
  <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
- <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="left" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
- <img align="left" alt="svelte" src="https://img.shields.io/badge/Svelte-232F3E?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+ <img align="left" alt="Svelte" src="https://img.shields.io/badge/Svelte-232F3E?style=for-the-badge&logo=Svelte&logoColor=cc3300" />
+ <img align="left" alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-232F3E?style=for-the-badge&logo=Svelte&logoColor=cc3300" />
  <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />	
  <img align="left" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />	
 </p>
 <br/>
 
 ### Languages
-Similar to most developers, I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull.
-Some of my staple languages include: <br/>
+Like most developers, I "speak" a few languages, and although some are questionable (HTML+CSS is Turing Complete!), they are extremely useful. Some of my native languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-0095D5?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-0095D5?style=for-the-badge&logo=css&logoColor=white" />
+ <img align="left" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 <br/>
